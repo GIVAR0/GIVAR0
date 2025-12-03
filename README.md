@@ -6,15 +6,13 @@
 <div align="left">
   
 ## Sobre mi
--Estudiante en Ingenieria en Desarrollo De Videojuegos en <a href="https://uniat.edu.mx/">UNIAT.</a>
-
--Aprendiendo <a href="https://learn.microsoft.com/es-es/dotnet/csharp/fundamentals/tutorials/oop">C#</a>, <a href="https://www.tokioschool.com/noticias/python-lenguaje-orientado-objetos/">Python</a> y programacion orientada a objetos.
-
--Siempre me gusta aprender algo nuevo.
-
--Enfocado en mejorar mis habilidades de programacion y diseno de juegos.
-
--Me gusta grabajar en proyectos que mezclen arte + logica + creatividad.
+<ul>
+  <li>Estudiante en Ingenieria en Desarrollo De Videojuegos en <a href="https://uniat.edu.mx/">UNIAT.</a></li>
+  <li>Aprendiendo <a href="https://learn.microsoft.com/es-es/dotnet/csharp/fundamentals/tutorials/oop">C#</a>, <a href="https://www.tokioschool.com/noticias/python-lenguaje-orientado-objetos/">Python</a> y programacion orientada a objetos.</li>
+  <li>Siempre me gusta aprender algo nuevo.</li>
+  <li>Enfocado en mejorar mis habilidades de programacion y diseno de juegos.</li>
+  <li>Me gusta grabajar en proyectos que mezclen arte + logica + creatividad.</li>
+</ul>
 
 ## Redes sociales
 <a href="https://instagram.com/gilbertovargas604" target="_blank">
