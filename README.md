@@ -9,9 +9,6 @@
 <ul>
   <li>Estudiante en Ingenieria en Desarrollo De Videojuegos en <a href="https://uniat.edu.mx/">UNIAT.</a></li>
   <li>Aprendiendo C#</a>, Python y programacion orientada a objetos.</li>
-  <li>Siempre me gusta aprender algo nuevo.</li>
-  <li>Enfocado en mejorar mis habilidades de programacion y diseno de juegos.</li>
-  <li>Me gusta grabajar en proyectos que mezclen arte + logica + creatividad.</li>
 </ul>
 
 ## Redes sociales
