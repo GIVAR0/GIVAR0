@@ -8,7 +8,7 @@
 ## Sobre mi
 <ul>
   <li>Estudiante en Ingenieria en Desarrollo De Videojuegos en <a href="https://uniat.edu.mx/">UNIAT.</a></li>
-  <li>Aprendiendo <a href="https://learn.microsoft.com/es-es/dotnet/csharp/fundamentals/tutorials/oop">C#</a>, <a href="https://www.tokioschool.com/noticias/python-lenguaje-orientado-objetos/">Python</a> y programacion orientada a objetos.</li>
+  <li>Aprendiendo C#</a>, Python y programacion orientada a objetos.</li>
   <li>Siempre me gusta aprender algo nuevo.</li>
   <li>Enfocado en mejorar mis habilidades de programacion y diseno de juegos.</li>
   <li>Me gusta grabajar en proyectos que mezclen arte + logica + creatividad.</li>
