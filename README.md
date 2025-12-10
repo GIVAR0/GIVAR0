@@ -22,3 +22,8 @@
 <img src="https://cdn-icons-png.freepik.com/256/3983/3983858.png?semt=ais_hybrid"
 width="40"/></a>
 
+<hr>
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GIVAR0&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
